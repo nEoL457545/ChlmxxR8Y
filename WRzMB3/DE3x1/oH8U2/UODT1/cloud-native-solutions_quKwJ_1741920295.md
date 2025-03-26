@@ -3,7 +3,6 @@
 /examples           @kuasar-io/tests-and-builds-approvers
 /docs               @kuasar-io/docs-approvers
 /quark              @kuasar-io/appkernel-approvers
-/shim               @kuasar-io/shim-approvers
 /tests              @kuasar-io/tests-and-builds-approvers
 /vmm                @kuasar-io/vmm-approvers
 /wasm               @kuasar-io/wasm-approvers
